@@ -43,7 +43,7 @@ No pull requests or code required to join, just your ideas, time and enthusiasm!
 
 🔗 Links & Resources
 
-Discussions: Start here to introduce yourself and claim a role
+**Discussions:** https://github.com/JGPower/top-sport-matches/discussions/1
 
 License: MIT License (see LICENSE file)
 
